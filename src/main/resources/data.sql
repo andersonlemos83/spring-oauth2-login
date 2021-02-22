@@ -1,0 +1,1 @@
+insert into usuarios(id, enabled, login, name, pass) values (1, true, 'alcamelo', 'Anderson', '$2y$12$m7ju6Ma1GtBvnH64CL27tORv8vJA6sUcpjbfhoWqMDN.No3jq1Ev.')
